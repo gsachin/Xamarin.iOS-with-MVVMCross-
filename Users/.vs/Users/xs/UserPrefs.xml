@@ -1,0 +1,46 @@
+﻿<Properties StartupConfiguration="{BBD6BA79-365C-46FB-9662-04318221A0A7}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Users.iOS/Resources/LaunchScreen.xib">
+    <Files>
+      <File FileName="Users.Core/App.cs" Line="18" Column="20" />
+      <File FileName="Users.Localization/Strings.resx" Line="12" Column="5" />
+      <File FileName="Users.Localization/LocalizedStrings.cs" Line="1" Column="11" />
+      <File FileName="Users.Localization/Strings.nl-BE.resx" Line="1" Column="1" />
+      <File FileName="Users.iOS/UsersViewCell.cs" Line="6" Column="13" />
+      <File FileName="Users.Localization/Strings.nl-BE.Designer.cs" Line="49" Column="9" />
+      <File FileName="Users.iOS/Resources/LaunchScreen.xib" />
+      <File FileName="Users.iOS/TableViewSources/UsersTableViewSource.cs" Line="1" Column="1" />
+      <File FileName="Users.iOS/Utility/UsersColors.cs" Line="15" Column="2" />
+      <File FileName="Users.iOS/Storyboard.storyboard" />
+      <File FileName="Users.iOS/StoryBoardContainer.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/sachingupta/Desktop/Users/MyTrains.iOS/Main.cs" relfile="MyTrains.iOS/Main.cs" line="21" column="1" />
+      <Breakpoint file="/Users/sachingupta/Desktop/Users/MyTrains.iOS/Views/AddUserView.cs" relfile="MyTrains.iOS/Views/AddUserView.cs" line="71" column="1" />
+      <Breakpoint file="/Users/sachingupta/Desktop/Users/MyTrains.iOS/Views/AddUserView.cs" relfile="MyTrains.iOS/Views/AddUserView.cs" line="21" column="1" />
+      <Breakpoint file="/Users/sachingupta/Desktop/Users/MyTrains.iOS/Views/AddUserView.cs" relfile="MyTrains.iOS/Views/AddUserView.cs" line="19" column="1" />
+      <Breakpoint file="/Users/sachingupta/Desktop/Users/MyTrains.Core/ViewModel/AddUserViewModel.cs" relfile="MyTrains.Core/ViewModel/AddUserViewModel.cs" line="103" column="1" />
+      <Breakpoint file="/Users/sachingupta/Desktop/Users/MyTrains.Core/ViewModel/AddUserViewModel.cs" relfile="MyTrains.Core/ViewModel/AddUserViewModel.cs" line="101" column="1" />
+      <Breakpoint file="/Users/sachingupta/Desktop/Users/MyTrains.iOS/Views/AddUserView.cs" relfile="MyTrains.iOS/Views/AddUserView.cs" line="62" column="1" />
+      <Breakpoint file="/Users/sachingupta/Desktop/Users/MyTrains.iOS/Views/AddUserView.cs" relfile="MyTrains.iOS/Views/AddUserView.cs" line="12" column="1" />
+      <Breakpoint file="/Users/sachingupta/Desktop/Users/MyTrains.Core/ViewModel/AddUserViewModel.cs" relfile="MyTrains.Core/ViewModel/AddUserViewModel.cs" line="86" column="15" />
+      <Breakpoint file="/Users/sachingupta/Desktop/Users/MyTrains.Core/ViewModel/SavedJourneysViewModel.cs" relfile="MyTrains.Core/ViewModel/SavedJourneysViewModel.cs" line="70" column="1" />
+      <Breakpoint file="/Users/sachingupta/Desktop/Users/MyTrains.Core/ViewModel/AddUserViewModel.cs" relfile="MyTrains.Core/ViewModel/AddUserViewModel.cs" line="80" column="1" />
+      <Breakpoint file="/Users/sachingupta/Desktop/Users/MyTrains.Core/ViewModel/AddUserViewC1ViewModel.cs" relfile="MyTrains.Core/ViewModel/AddUserViewC1ViewModel.cs" line="93" column="1" />
+      <Breakpoint file="/Users/sachingupta/Desktop/Users/MyTrains.Core/ViewModel/AddUserViewC1ViewModel.cs" relfile="MyTrains.Core/ViewModel/AddUserViewC1ViewModel.cs" line="99" column="1" />
+      <Breakpoint file="/Users/sachingupta/Desktop/Users/MyTrains.iOS/Views/AddUserViewC1.cs" relfile="MyTrains.iOS/Views/AddUserViewC1.cs" line="35" column="1" />
+      <Breakpoint file="/Users/sachingupta/Desktop/Users/MyTrains.Core/ViewModel/UserViewModel.cs" relfile="MyTrains.Core/ViewModel/UserViewModel.cs" line="119" column="1" />
+      <Breakpoint file="/Users/sachingupta/Desktop/Users/MyTrains.Core/ViewModel/UserViewModel.cs" relfile="MyTrains.Core/ViewModel/UserViewModel.cs" line="117" column="1" />
+      <Breakpoint file="/Users/sachingupta/Desktop/Users/MyTrains.Core/Services/Data/UserDataService.cs" relfile="MyTrains.Core/Services/Data/UserDataService.cs" line="30" column="1" />
+      <Breakpoint file="/Users/sachingupta/Desktop/Users/MyTrains.Core/ViewModel/UserViewModel.cs" relfile="MyTrains.Core/ViewModel/UserViewModel.cs" line="103" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Users.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.21D9BC91-84FC-4384-BEAE-EDC917C3AAF3" />
+  <MultiItemStartupConfigurations />
+  <DisabledProjects>
+    <String>MyTrains.Droid/MyTrains.Droid.csproj</String>
+  </DisabledProjects>
+</Properties>

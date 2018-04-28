@@ -1,0 +1,110 @@
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains/MyTrains.iOS/bin/iPhoneSimulator/Debug/MyTrainsiOS.exe.config
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains/MyTrains.iOS/bin/iPhoneSimulator/Debug/MyTrainsiOS.exe
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains/MyTrains.iOS/bin/iPhoneSimulator/Debug/MyTrainsiOS.pdb
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains/MyTrains.iOS/bin/iPhoneSimulator/Debug/Factorymind.Components-Unified.dll
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains/MyTrains.iOS/bin/iPhoneSimulator/Debug/MvvmCross.Binding.dll
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains/MyTrains.iOS/bin/iPhoneSimulator/Debug/MvvmCross.Binding.iOS.dll
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains/MyTrains.iOS/bin/iPhoneSimulator/Debug/MvvmCross.Core.dll
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains/MyTrains.iOS/bin/iPhoneSimulator/Debug/MvvmCross.iOS.dll
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains/MyTrains.iOS/bin/iPhoneSimulator/Debug/MvvmCross.Localization.dll
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains/MyTrains.iOS/bin/iPhoneSimulator/Debug/MvvmCross.Platform.dll
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains/MyTrains.iOS/bin/iPhoneSimulator/Debug/MvvmCross.Platform.iOS.dll
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains/MyTrains.iOS/bin/iPhoneSimulator/Debug/MvvmCross.Plugins.Json.dll
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains/MyTrains.iOS/bin/iPhoneSimulator/Debug/MvvmCross.Plugins.Messenger.dll
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains/MyTrains.iOS/bin/iPhoneSimulator/Debug/MvvmCross.Plugins.Sqlite.dll
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains/MyTrains.iOS/bin/iPhoneSimulator/Debug/MvvmCross.Plugins.Sqlite.iOS.dll
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains/MyTrains.iOS/bin/iPhoneSimulator/Debug/MvvmCross.Plugins.WebBrowser.dll
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains/MyTrains.iOS/bin/iPhoneSimulator/Debug/MvvmCross.Plugins.WebBrowser.iOS.dll
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains/MyTrains.iOS/bin/iPhoneSimulator/Debug/MyTrains.Core.dll
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains/MyTrains.iOS/bin/iPhoneSimulator/Debug/Newtonsoft.Json.dll
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains/MyTrains.iOS/bin/iPhoneSimulator/Debug/Plugin.Connectivity.Abstractions.dll
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains/MyTrains.iOS/bin/iPhoneSimulator/Debug/Plugin.Connectivity.dll
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains/MyTrains.iOS/bin/iPhoneSimulator/Debug/SQLite.Net.Async.dll
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains/MyTrains.iOS/bin/iPhoneSimulator/Debug/SQLite.Net.dll
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains/MyTrains.iOS/bin/iPhoneSimulator/Debug/SQLite.Net.Platform.XamarinIOS.Unified.dll
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains/MyTrains.iOS/bin/iPhoneSimulator/Debug/System.Net.Http.Extensions.dll
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains/MyTrains.iOS/bin/iPhoneSimulator/Debug/System.Net.Http.Primitives.dll
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains/MyTrains.iOS/bin/iPhoneSimulator/Debug/MyTrains.Localization.dll
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains/MyTrains.iOS/bin/iPhoneSimulator/Debug/MyTrains.Core.pdb
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains/MyTrains.iOS/bin/iPhoneSimulator/Debug/MyTrains.Core.dll.config
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains/MyTrains.iOS/bin/iPhoneSimulator/Debug/MvvmCross.Binding.dll.mdb
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains/MyTrains.iOS/bin/iPhoneSimulator/Debug/MvvmCross.Binding.iOS.dll.mdb
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains/MyTrains.iOS/bin/iPhoneSimulator/Debug/MvvmCross.iOS.dll.mdb
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains/MyTrains.iOS/bin/iPhoneSimulator/Debug/MvvmCross.Localization.dll.mdb
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains/MyTrains.iOS/bin/iPhoneSimulator/Debug/MvvmCross.Platform.dll.mdb
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains/MyTrains.iOS/bin/iPhoneSimulator/Debug/MvvmCross.Platform.iOS.dll.mdb
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains/MyTrains.iOS/bin/iPhoneSimulator/Debug/MvvmCross.Plugins.WebBrowser.dll.mdb
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains/MyTrains.iOS/bin/iPhoneSimulator/Debug/Newtonsoft.Json.xml
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains/MyTrains.iOS/bin/iPhoneSimulator/Debug/Plugin.Connectivity.xml
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains/MyTrains.iOS/bin/iPhoneSimulator/Debug/Plugin.Connectivity.Abstractions.xml
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains/MyTrains.iOS/bin/iPhoneSimulator/Debug/System.Net.Http.Extensions.xml
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains/MyTrains.iOS/bin/iPhoneSimulator/Debug/System.Net.Http.Primitives.xml
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains/MyTrains.iOS/bin/iPhoneSimulator/Debug/MyTrains.Localization.pdb
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains/MyTrains.iOS/bin/iPhoneSimulator/Debug/nl-BE/MyTrains.Localization.resources.dll
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains/MyTrains.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/ibtool/_BundleResourceWithLogicalName.items
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains/MyTrains.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/actool/_PartialAppManifest.items
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains/MyTrains.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/actool/_BundleResourceWithLogicalName.items
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains/MyTrains.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/coremlc/_PartialAppManifest.items
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains/MyTrains.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/coremlc/_BundleResourceWithLogicalName.items
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains/MyTrains.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/optimized/Entitlements.plist
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains/MyTrains.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/optimized/
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains/MyTrains.iOS/obj/iPhoneSimulator/Debug/MyTrains.iOS.csprojResolveAssemblyReference.cache
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains/MyTrains.iOS/obj/iPhoneSimulator/Debug/MyTrainsiOS.exe.config
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains/MyTrains.iOS/obj/iPhoneSimulator/Debug/MyTrains.iOS.csproj.CoreCompileInputs.cache
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains/MyTrains.iOS/obj/iPhoneSimulator/Debug/MyTrainsiOS.exe
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains/MyTrains.iOS/obj/iPhoneSimulator/Debug/MyTrainsiOS.pdb
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.iOS/bin/iPhoneSimulator/Debug/MyTrainsiOS.exe.config
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.iOS/bin/iPhoneSimulator/Debug/MyTrainsiOS.exe
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.iOS/bin/iPhoneSimulator/Debug/MyTrainsiOS.pdb
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.iOS/bin/iPhoneSimulator/Debug/Factorymind.Components-Unified.dll
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.iOS/bin/iPhoneSimulator/Debug/MvvmCross.Binding.dll
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.iOS/bin/iPhoneSimulator/Debug/MvvmCross.Binding.iOS.dll
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.iOS/bin/iPhoneSimulator/Debug/MvvmCross.Core.dll
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.iOS/bin/iPhoneSimulator/Debug/MvvmCross.iOS.dll
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.iOS/bin/iPhoneSimulator/Debug/MvvmCross.Localization.dll
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.iOS/bin/iPhoneSimulator/Debug/MvvmCross.Platform.dll
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.iOS/bin/iPhoneSimulator/Debug/MvvmCross.Platform.iOS.dll
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.iOS/bin/iPhoneSimulator/Debug/MvvmCross.Plugins.Json.dll
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.iOS/bin/iPhoneSimulator/Debug/MvvmCross.Plugins.Messenger.dll
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.iOS/bin/iPhoneSimulator/Debug/MvvmCross.Plugins.Sqlite.dll
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.iOS/bin/iPhoneSimulator/Debug/MvvmCross.Plugins.Sqlite.iOS.dll
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.iOS/bin/iPhoneSimulator/Debug/MvvmCross.Plugins.WebBrowser.dll
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.iOS/bin/iPhoneSimulator/Debug/MvvmCross.Plugins.WebBrowser.iOS.dll
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.iOS/bin/iPhoneSimulator/Debug/MyTrains.Core.dll
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.iOS/bin/iPhoneSimulator/Debug/Newtonsoft.Json.dll
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.iOS/bin/iPhoneSimulator/Debug/Plugin.Connectivity.Abstractions.dll
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.iOS/bin/iPhoneSimulator/Debug/Plugin.Connectivity.dll
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.iOS/bin/iPhoneSimulator/Debug/SQLite.Net.Async.dll
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.iOS/bin/iPhoneSimulator/Debug/SQLite.Net.dll
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.iOS/bin/iPhoneSimulator/Debug/SQLite.Net.Platform.XamarinIOS.Unified.dll
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.iOS/bin/iPhoneSimulator/Debug/System.Net.Http.Extensions.dll
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.iOS/bin/iPhoneSimulator/Debug/System.Net.Http.Primitives.dll
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.iOS/bin/iPhoneSimulator/Debug/MyTrains.Localization.dll
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.iOS/bin/iPhoneSimulator/Debug/MyTrains.Core.pdb
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.iOS/bin/iPhoneSimulator/Debug/MyTrains.Core.dll.config
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.iOS/bin/iPhoneSimulator/Debug/MvvmCross.Binding.dll.mdb
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.iOS/bin/iPhoneSimulator/Debug/MvvmCross.Binding.iOS.dll.mdb
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.iOS/bin/iPhoneSimulator/Debug/MvvmCross.iOS.dll.mdb
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.iOS/bin/iPhoneSimulator/Debug/MvvmCross.Localization.dll.mdb
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.iOS/bin/iPhoneSimulator/Debug/MvvmCross.Platform.dll.mdb
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.iOS/bin/iPhoneSimulator/Debug/MvvmCross.Platform.iOS.dll.mdb
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.iOS/bin/iPhoneSimulator/Debug/MvvmCross.Plugins.WebBrowser.dll.mdb
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.iOS/bin/iPhoneSimulator/Debug/Newtonsoft.Json.xml
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.iOS/bin/iPhoneSimulator/Debug/Plugin.Connectivity.xml
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.iOS/bin/iPhoneSimulator/Debug/Plugin.Connectivity.Abstractions.xml
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.iOS/bin/iPhoneSimulator/Debug/System.Net.Http.Extensions.xml
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.iOS/bin/iPhoneSimulator/Debug/System.Net.Http.Primitives.xml
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.iOS/bin/iPhoneSimulator/Debug/MyTrains.Localization.pdb
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.iOS/bin/iPhoneSimulator/Debug/nl-BE/MyTrains.Localization.resources.dll
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/ibtool/_BundleResourceWithLogicalName.items
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/actool/_PartialAppManifest.items
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/actool/_BundleResourceWithLogicalName.items
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/coremlc/_PartialAppManifest.items
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/coremlc/_BundleResourceWithLogicalName.items
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/optimized/Entitlements.plist
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/optimized/
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.iOS/obj/iPhoneSimulator/Debug/MyTrains.iOS.csprojResolveAssemblyReference.cache
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.iOS/obj/iPhoneSimulator/Debug/MyTrainsiOS.exe.config
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.iOS/obj/iPhoneSimulator/Debug/MyTrains.iOS.csproj.CoreCompileInputs.cache
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.iOS/obj/iPhoneSimulator/Debug/MyTrainsiOS.exe
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.iOS/obj/iPhoneSimulator/Debug/MyTrainsiOS.pdb

@@ -1,0 +1,9 @@
+/Users/sachingupta/Desktop/Users/Users.Localization/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile111.AssemblyAttribute.cs
+/Users/sachingupta/Desktop/Users/Users.Localization/obj/Debug/Users.Localization.Strings.resources
+/Users/sachingupta/Desktop/Users/Users.Localization/obj/Debug/Users.Localization.Strings.nl-BE.resources
+/Users/sachingupta/Desktop/Users/Users.Localization/obj/Debug/nl-BE/MyTrains.Localization.resources.dll
+/Users/sachingupta/Desktop/Users/Users.Localization/bin/Debug/MyTrains.Localization.pdb
+/Users/sachingupta/Desktop/Users/Users.Localization/bin/Debug/MyTrains.Localization.dll
+/Users/sachingupta/Desktop/Users/Users.Localization/bin/Debug//nl-BE/MyTrains.Localization.resources.dll
+/Users/sachingupta/Desktop/Users/Users.Localization/obj/Debug/MyTrains.Localization.dll
+/Users/sachingupta/Desktop/Users/Users.Localization/obj/Debug/MyTrains.Localization.pdb

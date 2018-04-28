@@ -1,0 +1,20 @@
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains/MyTrains.Localization/bin/Debug/MyTrains.Localization.dll
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains/MyTrains.Localization/bin/Debug/MyTrains.Localization.pdb
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains/MyTrains.Localization/bin/Debug/nl-BE/MyTrains.Localization.resources.dll
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains/MyTrains.Localization/obj/Debug/MyTrains.Localization.Strings.resources
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains/MyTrains.Localization/obj/Debug/MyTrains.Localization.Strings.nl-BE.resources
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains/MyTrains.Localization/obj/Debug/MyTrains.Localization.csproj.GenerateResource.Cache
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains/MyTrains.Localization/obj/Debug/MyTrains.Localization.csproj.CoreCompileInputs.cache
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains/MyTrains.Localization/obj/Debug/nl-BE/MyTrains.Localization.resources.dll
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains/MyTrains.Localization/obj/Debug/MyTrains.Localization.dll
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains/MyTrains.Localization/obj/Debug/MyTrains.Localization.pdb
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.Localization/bin/Debug/MyTrains.Localization.dll
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.Localization/bin/Debug/MyTrains.Localization.pdb
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.Localization/bin/Debug/nl-BE/MyTrains.Localization.resources.dll
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.Localization/obj/Debug/MyTrains.Localization.Strings.resources
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.Localization/obj/Debug/MyTrains.Localization.Strings.nl-BE.resources
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.Localization/obj/Debug/MyTrains.Localization.csproj.GenerateResource.Cache
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.Localization/obj/Debug/MyTrains.Localization.csproj.CoreCompileInputs.cache
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.Localization/obj/Debug/nl-BE/MyTrains.Localization.resources.dll
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.Localization/obj/Debug/MyTrains.Localization.dll
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.Localization/obj/Debug/MyTrains.Localization.pdb

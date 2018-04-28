@@ -1,0 +1,190 @@
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.Core/bin/Debug/MyTrains.Core.dll.config
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.Core/bin/Debug/MyTrains.Core.dll
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.Core/bin/Debug/MyTrains.Core.pdb
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.Core/bin/Debug/MvvmCross.Binding.dll
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.Core/bin/Debug/MvvmCross.Core.dll
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.Core/bin/Debug/MvvmCross.Droid.Support.V7.Fragging.dll
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.Core/bin/Debug/MvvmCross.Localization.dll
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.Core/bin/Debug/MvvmCross.Platform.dll
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.Core/bin/Debug/MvvmCross.Plugins.Messenger.dll
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.Core/bin/Debug/MvvmCross.Plugins.Sqlite.dll
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.Core/bin/Debug/MvvmCross.Plugins.WebBrowser.dll
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.Core/bin/Debug/MyTrains.Localization.dll
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.Core/bin/Debug/Newtonsoft.Json.dll
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.Core/bin/Debug/Plugin.Connectivity.Abstractions.dll
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.Core/bin/Debug/Plugin.Connectivity.dll
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.Core/bin/Debug/SQLite.Net.Async.dll
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.Core/bin/Debug/SQLite.Net.dll
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.Core/bin/Debug/System.Net.Http.Extensions.dll
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.Core/bin/Debug/System.Net.Http.Primitives.dll
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.Core/bin/Debug/MyTrains.Localization.pdb
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.Core/bin/Debug/MvvmCross.Binding.dll.mdb
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.Core/bin/Debug/MvvmCross.Droid.Support.V7.Fragging.dll.config
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.Core/bin/Debug/MvvmCross.Localization.dll.mdb
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.Core/bin/Debug/MvvmCross.Platform.dll.mdb
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.Core/bin/Debug/MvvmCross.Plugins.WebBrowser.dll.mdb
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.Core/bin/Debug/Newtonsoft.Json.xml
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.Core/bin/Debug/Plugin.Connectivity.pdb
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.Core/bin/Debug/Plugin.Connectivity.xml
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.Core/bin/Debug/Plugin.Connectivity.Abstractions.pdb
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.Core/bin/Debug/Plugin.Connectivity.Abstractions.xml
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.Core/bin/Debug/System.Net.Http.Extensions.xml
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.Core/bin/Debug/System.Net.Http.Primitives.xml
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.Core/bin/Debug/nl-BE/MyTrains.Localization.resources.dll
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.Core/obj/Debug/Users.Core.csproj.App.config
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.Core/obj/Debug/Users.Core.csprojResolveAssemblyReference.cache
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.Core/obj/Debug/Users.Core.csproj.CoreCompileInputs.cache
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.Core/obj/Debug/MyTrains.Core.dll
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.Core/obj/Debug/MyTrains.Core.pdb
+/Users/sachingupta/Downloads/MyTrains 2/MyTrains.Core/bin/Debug/MyTrains.Core.dll.config
+/Users/sachingupta/Downloads/MyTrains 2/MyTrains.Core/bin/Debug/MyTrains.Core.dll
+/Users/sachingupta/Downloads/MyTrains 2/MyTrains.Core/bin/Debug/MyTrains.Core.pdb
+/Users/sachingupta/Downloads/MyTrains 2/MyTrains.Core/bin/Debug/MvvmCross.Binding.dll
+/Users/sachingupta/Downloads/MyTrains 2/MyTrains.Core/bin/Debug/MvvmCross.Core.dll
+/Users/sachingupta/Downloads/MyTrains 2/MyTrains.Core/bin/Debug/MvvmCross.Droid.Support.V7.Fragging.dll
+/Users/sachingupta/Downloads/MyTrains 2/MyTrains.Core/bin/Debug/MvvmCross.Localization.dll
+/Users/sachingupta/Downloads/MyTrains 2/MyTrains.Core/bin/Debug/MvvmCross.Platform.dll
+/Users/sachingupta/Downloads/MyTrains 2/MyTrains.Core/bin/Debug/MvvmCross.Plugins.Messenger.dll
+/Users/sachingupta/Downloads/MyTrains 2/MyTrains.Core/bin/Debug/MvvmCross.Plugins.Sqlite.dll
+/Users/sachingupta/Downloads/MyTrains 2/MyTrains.Core/bin/Debug/MvvmCross.Plugins.WebBrowser.dll
+/Users/sachingupta/Downloads/MyTrains 2/MyTrains.Core/bin/Debug/MyTrains.Localization.dll
+/Users/sachingupta/Downloads/MyTrains 2/MyTrains.Core/bin/Debug/Newtonsoft.Json.dll
+/Users/sachingupta/Downloads/MyTrains 2/MyTrains.Core/bin/Debug/Plugin.Connectivity.Abstractions.dll
+/Users/sachingupta/Downloads/MyTrains 2/MyTrains.Core/bin/Debug/Plugin.Connectivity.dll
+/Users/sachingupta/Downloads/MyTrains 2/MyTrains.Core/bin/Debug/SQLite.Net.Async.dll
+/Users/sachingupta/Downloads/MyTrains 2/MyTrains.Core/bin/Debug/SQLite.Net.dll
+/Users/sachingupta/Downloads/MyTrains 2/MyTrains.Core/bin/Debug/System.Net.Http.Extensions.dll
+/Users/sachingupta/Downloads/MyTrains 2/MyTrains.Core/bin/Debug/System.Net.Http.Primitives.dll
+/Users/sachingupta/Downloads/MyTrains 2/MyTrains.Core/bin/Debug/MyTrains.Localization.pdb
+/Users/sachingupta/Downloads/MyTrains 2/MyTrains.Core/bin/Debug/MvvmCross.Binding.dll.mdb
+/Users/sachingupta/Downloads/MyTrains 2/MyTrains.Core/bin/Debug/MvvmCross.Droid.Support.V7.Fragging.dll.config
+/Users/sachingupta/Downloads/MyTrains 2/MyTrains.Core/bin/Debug/MvvmCross.Localization.dll.mdb
+/Users/sachingupta/Downloads/MyTrains 2/MyTrains.Core/bin/Debug/MvvmCross.Platform.dll.mdb
+/Users/sachingupta/Downloads/MyTrains 2/MyTrains.Core/bin/Debug/MvvmCross.Plugins.WebBrowser.dll.mdb
+/Users/sachingupta/Downloads/MyTrains 2/MyTrains.Core/bin/Debug/Newtonsoft.Json.xml
+/Users/sachingupta/Downloads/MyTrains 2/MyTrains.Core/bin/Debug/Plugin.Connectivity.pdb
+/Users/sachingupta/Downloads/MyTrains 2/MyTrains.Core/bin/Debug/Plugin.Connectivity.xml
+/Users/sachingupta/Downloads/MyTrains 2/MyTrains.Core/bin/Debug/Plugin.Connectivity.Abstractions.pdb
+/Users/sachingupta/Downloads/MyTrains 2/MyTrains.Core/bin/Debug/Plugin.Connectivity.Abstractions.xml
+/Users/sachingupta/Downloads/MyTrains 2/MyTrains.Core/bin/Debug/System.Net.Http.Extensions.xml
+/Users/sachingupta/Downloads/MyTrains 2/MyTrains.Core/bin/Debug/System.Net.Http.Primitives.xml
+/Users/sachingupta/Downloads/MyTrains 2/MyTrains.Core/bin/Debug/nl-BE/MyTrains.Localization.resources.dll
+/Users/sachingupta/Downloads/MyTrains 2/MyTrains.Core/obj/Debug/Users.Core.csproj.App.config
+/Users/sachingupta/Downloads/MyTrains 2/MyTrains.Core/obj/Debug/Users.Core.csprojResolveAssemblyReference.cache
+/Users/sachingupta/Downloads/MyTrains 2/MyTrains.Core/obj/Debug/Users.Core.csproj.CoreCompileInputs.cache
+/Users/sachingupta/Downloads/MyTrains 2/MyTrains.Core/obj/Debug/MyTrains.Core.dll
+/Users/sachingupta/Downloads/MyTrains 2/MyTrains.Core/obj/Debug/MyTrains.Core.pdb
+/Users/sachingupta/Desktop/MyTrains 2/MyTrains.Core/bin/Debug/MyTrains.Core.dll.config
+/Users/sachingupta/Desktop/MyTrains 2/MyTrains.Core/bin/Debug/MyTrains.Core.dll
+/Users/sachingupta/Desktop/MyTrains 2/MyTrains.Core/bin/Debug/MyTrains.Core.pdb
+/Users/sachingupta/Desktop/MyTrains 2/MyTrains.Core/bin/Debug/MvvmCross.Binding.dll
+/Users/sachingupta/Desktop/MyTrains 2/MyTrains.Core/bin/Debug/MvvmCross.Core.dll
+/Users/sachingupta/Desktop/MyTrains 2/MyTrains.Core/bin/Debug/MvvmCross.Droid.Support.V7.Fragging.dll
+/Users/sachingupta/Desktop/MyTrains 2/MyTrains.Core/bin/Debug/MvvmCross.Localization.dll
+/Users/sachingupta/Desktop/MyTrains 2/MyTrains.Core/bin/Debug/MvvmCross.Platform.dll
+/Users/sachingupta/Desktop/MyTrains 2/MyTrains.Core/bin/Debug/MvvmCross.Plugins.Messenger.dll
+/Users/sachingupta/Desktop/MyTrains 2/MyTrains.Core/bin/Debug/MvvmCross.Plugins.Sqlite.dll
+/Users/sachingupta/Desktop/MyTrains 2/MyTrains.Core/bin/Debug/MvvmCross.Plugins.WebBrowser.dll
+/Users/sachingupta/Desktop/MyTrains 2/MyTrains.Core/bin/Debug/MyTrains.Localization.dll
+/Users/sachingupta/Desktop/MyTrains 2/MyTrains.Core/bin/Debug/Newtonsoft.Json.dll
+/Users/sachingupta/Desktop/MyTrains 2/MyTrains.Core/bin/Debug/Plugin.Connectivity.Abstractions.dll
+/Users/sachingupta/Desktop/MyTrains 2/MyTrains.Core/bin/Debug/Plugin.Connectivity.dll
+/Users/sachingupta/Desktop/MyTrains 2/MyTrains.Core/bin/Debug/SQLite.Net.Async.dll
+/Users/sachingupta/Desktop/MyTrains 2/MyTrains.Core/bin/Debug/SQLite.Net.dll
+/Users/sachingupta/Desktop/MyTrains 2/MyTrains.Core/bin/Debug/System.Net.Http.Extensions.dll
+/Users/sachingupta/Desktop/MyTrains 2/MyTrains.Core/bin/Debug/System.Net.Http.Primitives.dll
+/Users/sachingupta/Desktop/MyTrains 2/MyTrains.Core/bin/Debug/MyTrains.Localization.pdb
+/Users/sachingupta/Desktop/MyTrains 2/MyTrains.Core/bin/Debug/MvvmCross.Binding.dll.mdb
+/Users/sachingupta/Desktop/MyTrains 2/MyTrains.Core/bin/Debug/MvvmCross.Droid.Support.V7.Fragging.dll.config
+/Users/sachingupta/Desktop/MyTrains 2/MyTrains.Core/bin/Debug/MvvmCross.Localization.dll.mdb
+/Users/sachingupta/Desktop/MyTrains 2/MyTrains.Core/bin/Debug/MvvmCross.Platform.dll.mdb
+/Users/sachingupta/Desktop/MyTrains 2/MyTrains.Core/bin/Debug/MvvmCross.Plugins.WebBrowser.dll.mdb
+/Users/sachingupta/Desktop/MyTrains 2/MyTrains.Core/bin/Debug/Newtonsoft.Json.xml
+/Users/sachingupta/Desktop/MyTrains 2/MyTrains.Core/bin/Debug/Plugin.Connectivity.pdb
+/Users/sachingupta/Desktop/MyTrains 2/MyTrains.Core/bin/Debug/Plugin.Connectivity.xml
+/Users/sachingupta/Desktop/MyTrains 2/MyTrains.Core/bin/Debug/Plugin.Connectivity.Abstractions.pdb
+/Users/sachingupta/Desktop/MyTrains 2/MyTrains.Core/bin/Debug/Plugin.Connectivity.Abstractions.xml
+/Users/sachingupta/Desktop/MyTrains 2/MyTrains.Core/bin/Debug/System.Net.Http.Extensions.xml
+/Users/sachingupta/Desktop/MyTrains 2/MyTrains.Core/bin/Debug/System.Net.Http.Primitives.xml
+/Users/sachingupta/Desktop/MyTrains 2/MyTrains.Core/bin/Debug/nl-BE/MyTrains.Localization.resources.dll
+/Users/sachingupta/Desktop/MyTrains 2/MyTrains.Core/obj/Debug/Users.Core.csproj.App.config
+/Users/sachingupta/Desktop/MyTrains 2/MyTrains.Core/obj/Debug/Users.Core.csprojResolveAssemblyReference.cache
+/Users/sachingupta/Desktop/MyTrains 2/MyTrains.Core/obj/Debug/Users.Core.csproj.CoreCompileInputs.cache
+/Users/sachingupta/Desktop/MyTrains 2/MyTrains.Core/obj/Debug/MyTrains.Core.dll
+/Users/sachingupta/Desktop/MyTrains 2/MyTrains.Core/obj/Debug/MyTrains.Core.pdb
+/Users/sachingupta/Desktop/Users/MyTrains.Core/bin/Debug/MyTrains.Core.dll.config
+/Users/sachingupta/Desktop/Users/MyTrains.Core/bin/Debug/MyTrains.Core.dll
+/Users/sachingupta/Desktop/Users/MyTrains.Core/bin/Debug/MyTrains.Core.pdb
+/Users/sachingupta/Desktop/Users/MyTrains.Core/bin/Debug/MvvmCross.Binding.dll
+/Users/sachingupta/Desktop/Users/MyTrains.Core/bin/Debug/MvvmCross.Core.dll
+/Users/sachingupta/Desktop/Users/MyTrains.Core/bin/Debug/MvvmCross.Droid.Support.V7.Fragging.dll
+/Users/sachingupta/Desktop/Users/MyTrains.Core/bin/Debug/MvvmCross.Localization.dll
+/Users/sachingupta/Desktop/Users/MyTrains.Core/bin/Debug/MvvmCross.Platform.dll
+/Users/sachingupta/Desktop/Users/MyTrains.Core/bin/Debug/MvvmCross.Plugins.Messenger.dll
+/Users/sachingupta/Desktop/Users/MyTrains.Core/bin/Debug/MvvmCross.Plugins.Sqlite.dll
+/Users/sachingupta/Desktop/Users/MyTrains.Core/bin/Debug/MvvmCross.Plugins.WebBrowser.dll
+/Users/sachingupta/Desktop/Users/MyTrains.Core/bin/Debug/MyTrains.Localization.dll
+/Users/sachingupta/Desktop/Users/MyTrains.Core/bin/Debug/Newtonsoft.Json.dll
+/Users/sachingupta/Desktop/Users/MyTrains.Core/bin/Debug/Plugin.Connectivity.Abstractions.dll
+/Users/sachingupta/Desktop/Users/MyTrains.Core/bin/Debug/Plugin.Connectivity.dll
+/Users/sachingupta/Desktop/Users/MyTrains.Core/bin/Debug/SQLite.Net.Async.dll
+/Users/sachingupta/Desktop/Users/MyTrains.Core/bin/Debug/SQLite.Net.dll
+/Users/sachingupta/Desktop/Users/MyTrains.Core/bin/Debug/System.Net.Http.Extensions.dll
+/Users/sachingupta/Desktop/Users/MyTrains.Core/bin/Debug/System.Net.Http.Primitives.dll
+/Users/sachingupta/Desktop/Users/MyTrains.Core/bin/Debug/MyTrains.Localization.pdb
+/Users/sachingupta/Desktop/Users/MyTrains.Core/bin/Debug/MvvmCross.Binding.dll.mdb
+/Users/sachingupta/Desktop/Users/MyTrains.Core/bin/Debug/MvvmCross.Droid.Support.V7.Fragging.dll.config
+/Users/sachingupta/Desktop/Users/MyTrains.Core/bin/Debug/MvvmCross.Localization.dll.mdb
+/Users/sachingupta/Desktop/Users/MyTrains.Core/bin/Debug/MvvmCross.Platform.dll.mdb
+/Users/sachingupta/Desktop/Users/MyTrains.Core/bin/Debug/MvvmCross.Plugins.WebBrowser.dll.mdb
+/Users/sachingupta/Desktop/Users/MyTrains.Core/bin/Debug/Newtonsoft.Json.xml
+/Users/sachingupta/Desktop/Users/MyTrains.Core/bin/Debug/Plugin.Connectivity.pdb
+/Users/sachingupta/Desktop/Users/MyTrains.Core/bin/Debug/Plugin.Connectivity.xml
+/Users/sachingupta/Desktop/Users/MyTrains.Core/bin/Debug/Plugin.Connectivity.Abstractions.pdb
+/Users/sachingupta/Desktop/Users/MyTrains.Core/bin/Debug/Plugin.Connectivity.Abstractions.xml
+/Users/sachingupta/Desktop/Users/MyTrains.Core/bin/Debug/System.Net.Http.Extensions.xml
+/Users/sachingupta/Desktop/Users/MyTrains.Core/bin/Debug/System.Net.Http.Primitives.xml
+/Users/sachingupta/Desktop/Users/MyTrains.Core/bin/Debug/nl-BE/MyTrains.Localization.resources.dll
+/Users/sachingupta/Desktop/Users/MyTrains.Core/obj/Debug/Users.Core.csproj.App.config
+/Users/sachingupta/Desktop/Users/MyTrains.Core/obj/Debug/Users.Core.csprojResolveAssemblyReference.cache
+/Users/sachingupta/Desktop/Users/MyTrains.Core/obj/Debug/Users.Core.csproj.CoreCompileInputs.cache
+/Users/sachingupta/Desktop/Users/MyTrains.Core/obj/Debug/MyTrains.Core.dll
+/Users/sachingupta/Desktop/Users/MyTrains.Core/obj/Debug/MyTrains.Core.pdb
+/Users/sachingupta/Desktop/Users/Users.Core/bin/Debug/MyTrains.Core.dll.config
+/Users/sachingupta/Desktop/Users/Users.Core/bin/Debug/MyTrains.Core.dll
+/Users/sachingupta/Desktop/Users/Users.Core/bin/Debug/MyTrains.Core.pdb
+/Users/sachingupta/Desktop/Users/Users.Core/bin/Debug/MvvmCross.Binding.dll
+/Users/sachingupta/Desktop/Users/Users.Core/bin/Debug/MvvmCross.Core.dll
+/Users/sachingupta/Desktop/Users/Users.Core/bin/Debug/MvvmCross.Droid.Support.V7.Fragging.dll
+/Users/sachingupta/Desktop/Users/Users.Core/bin/Debug/MvvmCross.Localization.dll
+/Users/sachingupta/Desktop/Users/Users.Core/bin/Debug/MvvmCross.Platform.dll
+/Users/sachingupta/Desktop/Users/Users.Core/bin/Debug/MvvmCross.Plugins.Messenger.dll
+/Users/sachingupta/Desktop/Users/Users.Core/bin/Debug/MvvmCross.Plugins.Sqlite.dll
+/Users/sachingupta/Desktop/Users/Users.Core/bin/Debug/MvvmCross.Plugins.WebBrowser.dll
+/Users/sachingupta/Desktop/Users/Users.Core/bin/Debug/MyTrains.Localization.dll
+/Users/sachingupta/Desktop/Users/Users.Core/bin/Debug/Newtonsoft.Json.dll
+/Users/sachingupta/Desktop/Users/Users.Core/bin/Debug/Plugin.Connectivity.Abstractions.dll
+/Users/sachingupta/Desktop/Users/Users.Core/bin/Debug/Plugin.Connectivity.dll
+/Users/sachingupta/Desktop/Users/Users.Core/bin/Debug/SQLite.Net.Async.dll
+/Users/sachingupta/Desktop/Users/Users.Core/bin/Debug/SQLite.Net.dll
+/Users/sachingupta/Desktop/Users/Users.Core/bin/Debug/System.Net.Http.Extensions.dll
+/Users/sachingupta/Desktop/Users/Users.Core/bin/Debug/System.Net.Http.Primitives.dll
+/Users/sachingupta/Desktop/Users/Users.Core/bin/Debug/MyTrains.Localization.pdb
+/Users/sachingupta/Desktop/Users/Users.Core/bin/Debug/MvvmCross.Binding.dll.mdb
+/Users/sachingupta/Desktop/Users/Users.Core/bin/Debug/MvvmCross.Droid.Support.V7.Fragging.dll.config
+/Users/sachingupta/Desktop/Users/Users.Core/bin/Debug/MvvmCross.Localization.dll.mdb
+/Users/sachingupta/Desktop/Users/Users.Core/bin/Debug/MvvmCross.Platform.dll.mdb
+/Users/sachingupta/Desktop/Users/Users.Core/bin/Debug/MvvmCross.Plugins.WebBrowser.dll.mdb
+/Users/sachingupta/Desktop/Users/Users.Core/bin/Debug/Newtonsoft.Json.xml
+/Users/sachingupta/Desktop/Users/Users.Core/bin/Debug/Plugin.Connectivity.pdb
+/Users/sachingupta/Desktop/Users/Users.Core/bin/Debug/Plugin.Connectivity.xml
+/Users/sachingupta/Desktop/Users/Users.Core/bin/Debug/Plugin.Connectivity.Abstractions.pdb
+/Users/sachingupta/Desktop/Users/Users.Core/bin/Debug/Plugin.Connectivity.Abstractions.xml
+/Users/sachingupta/Desktop/Users/Users.Core/bin/Debug/System.Net.Http.Extensions.xml
+/Users/sachingupta/Desktop/Users/Users.Core/bin/Debug/System.Net.Http.Primitives.xml
+/Users/sachingupta/Desktop/Users/Users.Core/bin/Debug/nl-BE/MyTrains.Localization.resources.dll
+/Users/sachingupta/Desktop/Users/Users.Core/obj/Debug/Users.Core.csproj.App.config
+/Users/sachingupta/Desktop/Users/Users.Core/obj/Debug/Users.Core.csprojResolveAssemblyReference.cache
+/Users/sachingupta/Desktop/Users/Users.Core/obj/Debug/Users.Core.csproj.CoreCompileInputs.cache
+/Users/sachingupta/Desktop/Users/Users.Core/obj/Debug/MyTrains.Core.dll
+/Users/sachingupta/Desktop/Users/Users.Core/obj/Debug/MyTrains.Core.pdb

@@ -1,0 +1,85 @@
+﻿<Properties StartupConfiguration="{BBD6BA79-365C-46FB-9662-04318221A0A7}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MyTrains.Core/Repositories/SavedJourneyRepository.cs">
+    <Files>
+      <File FileName="MyTrains.iOS/Main.cs" Line="21" Column="1" />
+      <File FileName="MyTrains.iOS/Views/UserView.cs" Line="10" Column="40" />
+      <File FileName="MyTrains.Core/ViewModel/UserViewModel.cs" Line="12" Column="49" />
+      <File FileName="MyTrains.Core/ViewModel/UsersViewModel.cs" Line="1" Column="1" />
+      <File FileName="MyTrains.Core/ViewModel/BaseViewModel.cs" Line="9" Column="21" />
+      <File FileName="MyTrains.iOS/Views/UsersView.cs" Line="81" Column="2" />
+      <File FileName="MyTrains.iOS/StoryBoardContainer.cs" Line="13" Column="1" />
+      <File FileName="MyTrains.iOS/Views/UserView.designer.cs" Line="1" Column="1" />
+      <File FileName="MyTrains.iOS/Views/UsersView.designer.cs" Line="1" Column="1" />
+      <File FileName="MyTrains.Core/AppStart.cs" Line="1" Column="1" />
+      <File FileName="MyTrains.Core/Contracts/ViewModel/ISavedJourneysViewModel.cs" Line="1" Column="1" />
+      <File FileName="MyTrains.Core/Contracts/ViewModel/IUserViewModel.cs" Line="6" Column="9" />
+      <File FileName="MyTrains.iOS/Storyboard.storyboard" />
+      <File FileName="MyTrains.iOS/Views/BaseView.cs" Line="8" Column="31" />
+      <File FileName="MyTrains.iOS/SearchResultsCell.designer.cs" Line="1" Column="1" />
+      <File FileName="MyTrains.Core/Services/Data/UserDataService.cs" Line="1" Column="1" />
+      <File FileName="MyTrains.Core/Services/Data/JourneyDataService.cs" Line="1" Column="1" />
+      <File FileName="MyTrains.Core/Services/Data/SettingsDataService.cs" Line="1" Column="1" />
+      <File FileName="MyTrains.Core/Repositories/UserRepository.cs" Line="9" Column="32" />
+      <File FileName="MyTrains.Core/Contracts/Repository/IUsersRepository.cs" Line="1" Column="1" />
+      <File FileName="MyTrains.Core/Contracts/Repository/IUserRepository.cs" Line="1" Column="1" />
+      <File FileName="MyTrains.Core/Repositories/SavedJourneyRepository.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MyTrains" expanded="True">
+            <Node name="MyTrains.Core" expanded="True">
+              <Node name="Contracts" expanded="True">
+                <Node name="Repository" expanded="True" />
+                <Node name="Services" expanded="True" />
+                <Node name="ViewModel" expanded="True" />
+              </Node>
+              <Node name="Converters" expanded="True" />
+              <Node name="Repositories" expanded="True">
+                <Node name="SavedJourneyRepository.cs" selected="True" />
+              </Node>
+              <Node name="Services" expanded="True">
+                <Node name="Data" expanded="True" />
+              </Node>
+              <Node name="ViewModel" expanded="True" />
+            </Node>
+            <Node name="MyTrains.iOS" expanded="True">
+              <Node name="Views" expanded="True">
+                <Node name="SettingsView.cs" expanded="True" />
+                <Node name="UsersView.cs" expanded="True" />
+                <Node name="UserView.cs" expanded="True" />
+              </Node>
+              <Node name="SearchResultsCell.cs" expanded="True" />
+              <Node name="UsersViewCell.cs" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.MyTrains.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.87FE4FFF-095D-4DF6-AF7F-759676504BB8" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.iOS/Main.cs" relfile="MyTrains.iOS/Main.cs" line="21" column="1" />
+      <Breakpoint file="/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.iOS/Views/AddUserView.cs" relfile="MyTrains.iOS/Views/AddUserView.cs" line="71" column="1" />
+      <Breakpoint file="/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.iOS/Views/AddUserView.cs" relfile="MyTrains.iOS/Views/AddUserView.cs" line="21" column="1" />
+      <Breakpoint file="/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.iOS/Views/AddUserView.cs" relfile="MyTrains.iOS/Views/AddUserView.cs" line="19" column="1" />
+      <Breakpoint file="/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.Core/ViewModel/AddUserViewModel.cs" relfile="MyTrains.Core/ViewModel/AddUserViewModel.cs" line="103" column="1" />
+      <Breakpoint file="/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.Core/ViewModel/AddUserViewModel.cs" relfile="MyTrains.Core/ViewModel/AddUserViewModel.cs" line="101" column="1" />
+      <Breakpoint file="/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.iOS/Views/AddUserView.cs" relfile="MyTrains.iOS/Views/AddUserView.cs" line="62" column="1" />
+      <Breakpoint file="/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.iOS/Views/AddUserView.cs" relfile="MyTrains.iOS/Views/AddUserView.cs" line="12" column="1" />
+      <Breakpoint file="/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.Core/ViewModel/AddUserViewModel.cs" relfile="MyTrains.Core/ViewModel/AddUserViewModel.cs" line="86" column="15" />
+      <Breakpoint file="/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.Core/ViewModel/SavedJourneysViewModel.cs" relfile="MyTrains.Core/ViewModel/SavedJourneysViewModel.cs" line="70" column="1" />
+      <Breakpoint file="/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.Core/ViewModel/AddUserViewModel.cs" relfile="MyTrains.Core/ViewModel/AddUserViewModel.cs" line="80" column="1" />
+      <Breakpoint file="/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.Core/ViewModel/AddUserViewC1ViewModel.cs" relfile="MyTrains.Core/ViewModel/AddUserViewC1ViewModel.cs" line="93" column="1" />
+      <Breakpoint file="/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.Core/ViewModel/AddUserViewC1ViewModel.cs" relfile="MyTrains.Core/ViewModel/AddUserViewC1ViewModel.cs" line="99" column="1" />
+      <Breakpoint file="/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.iOS/Views/AddUserViewC1.cs" relfile="MyTrains.iOS/Views/AddUserViewC1.cs" line="35" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <DisabledProjects>
+    <String>MyTrains.Droid/MyTrains.Droid.csproj</String>
+  </DisabledProjects>
+</Properties>

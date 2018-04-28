@@ -1,0 +1,50 @@
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.Localization/bin/Debug/MyTrains.Localization.dll
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.Localization/bin/Debug/MyTrains.Localization.pdb
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.Localization/bin/Debug/nl-BE/MyTrains.Localization.resources.dll
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.Localization/obj/Debug/Users.Localization.Strings.resources
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.Localization/obj/Debug/Users.Localization.Strings.nl-BE.resources
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.Localization/obj/Debug/Users.Localization.csproj.GenerateResource.Cache
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.Localization/obj/Debug/Users.Localization.csproj.CoreCompileInputs.cache
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.Localization/obj/Debug/nl-BE/MyTrains.Localization.resources.dll
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.Localization/obj/Debug/MyTrains.Localization.dll
+/Users/fleetcor/Downloads/mvvm-based-architecture-xamarin-mobile-apps 2/MyTrains 2/MyTrains.Localization/obj/Debug/MyTrains.Localization.pdb
+/Users/sachingupta/Downloads/MyTrains 2/MyTrains.Localization/bin/Debug/MyTrains.Localization.dll
+/Users/sachingupta/Downloads/MyTrains 2/MyTrains.Localization/bin/Debug/MyTrains.Localization.pdb
+/Users/sachingupta/Downloads/MyTrains 2/MyTrains.Localization/bin/Debug/nl-BE/MyTrains.Localization.resources.dll
+/Users/sachingupta/Downloads/MyTrains 2/MyTrains.Localization/obj/Debug/Users.Localization.Strings.resources
+/Users/sachingupta/Downloads/MyTrains 2/MyTrains.Localization/obj/Debug/Users.Localization.Strings.nl-BE.resources
+/Users/sachingupta/Downloads/MyTrains 2/MyTrains.Localization/obj/Debug/Users.Localization.csproj.GenerateResource.Cache
+/Users/sachingupta/Downloads/MyTrains 2/MyTrains.Localization/obj/Debug/Users.Localization.csproj.CoreCompileInputs.cache
+/Users/sachingupta/Downloads/MyTrains 2/MyTrains.Localization/obj/Debug/nl-BE/MyTrains.Localization.resources.dll
+/Users/sachingupta/Downloads/MyTrains 2/MyTrains.Localization/obj/Debug/MyTrains.Localization.dll
+/Users/sachingupta/Downloads/MyTrains 2/MyTrains.Localization/obj/Debug/MyTrains.Localization.pdb
+/Users/sachingupta/Desktop/MyTrains 2/MyTrains.Localization/bin/Debug/MyTrains.Localization.dll
+/Users/sachingupta/Desktop/MyTrains 2/MyTrains.Localization/bin/Debug/MyTrains.Localization.pdb
+/Users/sachingupta/Desktop/MyTrains 2/MyTrains.Localization/bin/Debug/nl-BE/MyTrains.Localization.resources.dll
+/Users/sachingupta/Desktop/MyTrains 2/MyTrains.Localization/obj/Debug/Users.Localization.Strings.resources
+/Users/sachingupta/Desktop/MyTrains 2/MyTrains.Localization/obj/Debug/Users.Localization.Strings.nl-BE.resources
+/Users/sachingupta/Desktop/MyTrains 2/MyTrains.Localization/obj/Debug/Users.Localization.csproj.GenerateResource.Cache
+/Users/sachingupta/Desktop/MyTrains 2/MyTrains.Localization/obj/Debug/Users.Localization.csproj.CoreCompileInputs.cache
+/Users/sachingupta/Desktop/MyTrains 2/MyTrains.Localization/obj/Debug/nl-BE/MyTrains.Localization.resources.dll
+/Users/sachingupta/Desktop/MyTrains 2/MyTrains.Localization/obj/Debug/MyTrains.Localization.dll
+/Users/sachingupta/Desktop/MyTrains 2/MyTrains.Localization/obj/Debug/MyTrains.Localization.pdb
+/Users/sachingupta/Desktop/Users/MyTrains.Localization/bin/Debug/MyTrains.Localization.dll
+/Users/sachingupta/Desktop/Users/MyTrains.Localization/bin/Debug/MyTrains.Localization.pdb
+/Users/sachingupta/Desktop/Users/MyTrains.Localization/bin/Debug/nl-BE/MyTrains.Localization.resources.dll
+/Users/sachingupta/Desktop/Users/MyTrains.Localization/obj/Debug/Users.Localization.Strings.resources
+/Users/sachingupta/Desktop/Users/MyTrains.Localization/obj/Debug/Users.Localization.Strings.nl-BE.resources
+/Users/sachingupta/Desktop/Users/MyTrains.Localization/obj/Debug/Users.Localization.csproj.GenerateResource.Cache
+/Users/sachingupta/Desktop/Users/MyTrains.Localization/obj/Debug/Users.Localization.csproj.CoreCompileInputs.cache
+/Users/sachingupta/Desktop/Users/MyTrains.Localization/obj/Debug/nl-BE/MyTrains.Localization.resources.dll
+/Users/sachingupta/Desktop/Users/MyTrains.Localization/obj/Debug/MyTrains.Localization.dll
+/Users/sachingupta/Desktop/Users/MyTrains.Localization/obj/Debug/MyTrains.Localization.pdb
+/Users/sachingupta/Desktop/Users/Users.Localization/bin/Debug/MyTrains.Localization.dll
+/Users/sachingupta/Desktop/Users/Users.Localization/bin/Debug/MyTrains.Localization.pdb
+/Users/sachingupta/Desktop/Users/Users.Localization/bin/Debug/nl-BE/MyTrains.Localization.resources.dll
+/Users/sachingupta/Desktop/Users/Users.Localization/obj/Debug/Users.Localization.Strings.resources
+/Users/sachingupta/Desktop/Users/Users.Localization/obj/Debug/Users.Localization.Strings.nl-BE.resources
+/Users/sachingupta/Desktop/Users/Users.Localization/obj/Debug/Users.Localization.csproj.GenerateResource.Cache
+/Users/sachingupta/Desktop/Users/Users.Localization/obj/Debug/Users.Localization.csproj.CoreCompileInputs.cache
+/Users/sachingupta/Desktop/Users/Users.Localization/obj/Debug/nl-BE/MyTrains.Localization.resources.dll
+/Users/sachingupta/Desktop/Users/Users.Localization/obj/Debug/MyTrains.Localization.dll
+/Users/sachingupta/Desktop/Users/Users.Localization/obj/Debug/MyTrains.Localization.pdb
